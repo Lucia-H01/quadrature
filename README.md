@@ -13,3 +13,5 @@ Default method: Simpson
 - trapezoid
 ```
 - simpson
+
+Maintained by Lucia.
