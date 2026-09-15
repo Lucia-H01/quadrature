@@ -4,7 +4,7 @@
 
 Simple numerical integration routines in Python.
 
-Default method: trapezoid
+Default method: midpoint
 
 ## Methods implemented
 
